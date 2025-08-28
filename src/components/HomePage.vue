@@ -116,7 +116,7 @@
 
     <!-- RIGHT: sidebar -->
     <div class="xl:col-span-10 lg:col-span-9">
-      <div class="sticky top-[81px] grid grid-cols-12 bg-white z-20">
+      <div class="sticky top-[80px] grid grid-cols-12 bg-white z-20">
         <div class=" col-span-12">
           <div class="flex py-4 overflow-x-auto whitespace-nowrap scrollbar-hide">
             <p
